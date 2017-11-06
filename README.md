@@ -1,4 +1,4 @@
-# onlineshop
+# Online-shop
 
 > A Vue.js project
 
